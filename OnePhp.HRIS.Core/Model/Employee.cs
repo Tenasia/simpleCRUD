@@ -1,14 +1,7 @@
-﻿using System;
-using System.Data;
-using System.Threading.Tasks;
-using OnePhp.HRIS.Core.Data;
-using OnePhp.HRIS.Core.Model;
+﻿using OnePhp.HRIS.Core.Data;
+using System;
 using System.Collections.Generic;
-using System.Text;
-using System.Data.Common;
-using System.Globalization;
-using System.Linq;
-using System.Diagnostics;
+using System.Data;
 
 namespace OnePhp.HRIS.Core.Model
 {
@@ -646,7 +639,7 @@ namespace OnePhp.HRIS.Core.Model
 
                 // Calculate the start date of next week
                 DateTime startDateOfNextWeek = today.AddDays(daysUntilNextMonday);
-        
+
                 // Calculate the end date of next week
                 DateTime endDateOfNextWeek = startDateOfNextWeek.AddDays(6);
 

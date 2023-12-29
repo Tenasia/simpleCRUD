@@ -69,13 +69,30 @@
     <None Include="wwwroot\lib\jquery\LICENSE.txt" />
   </ItemGroup>
 
-  <ItemGroup>
-    <PackageReference Include="EntityFramework" Version="6.4.4" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.9" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
-    <PackageReference Include="MySql.Data.EntityFramework" Version="8.2.0" />
-  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Google.Apis.Gmail.v1" Version="1.57.0.2650" />
+		<PackageReference Include="Hangfire.AspNetCore" Version="1.7.31" />
+		<PackageReference Include="Hangfire.MemoryStorage" Version="1.7.0" />
+		<PackageReference Include="LumenWorks.Framework.IO.Core" Version="1.0.1" />
+		<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.9" />
+		<PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.9" />
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="6.0.9" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.9" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.9">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
+		<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+		<PackageReference Include="NLog.Extensions.Logging" Version="5.0.4" />
+		<PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.2" />
+		<PackageReference Include="AngleSharp" Version="0.17.1" />
+		<PackageReference Include="MailKit" Version="3.4.1" />
+		<PackageReference Include="MimeKit" Version="3.4.1" />
+		<PackageReference Include="NPOI" Version="2.5.6" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+		<PackageReference Include="Google.Apis.Auth" Version="1.57.0" />
+	</ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\OnePhp.HRIS.Core\OnePhp.HRIS.Core.csproj" />

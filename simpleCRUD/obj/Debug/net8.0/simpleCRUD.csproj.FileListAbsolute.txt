@@ -36,3 +36,13 @@ C:\Users\alvic\source\repos\simpleCRUD\simpleCRUD\obj\Debug\net8.0\refint\simple
 C:\Users\alvic\source\repos\simpleCRUD\simpleCRUD\obj\Debug\net8.0\simpleCRUD.pdb
 C:\Users\alvic\source\repos\simpleCRUD\simpleCRUD\obj\Debug\net8.0\simpleCRUD.genruntimeconfig.cache
 C:\Users\alvic\source\repos\simpleCRUD\simpleCRUD\obj\Debug\net8.0\ref\simpleCRUD.dll
+C:\Users\alvic viojan\Source\Repos\Tenasia\simpleCRUD\simpleCRUD\obj\Debug\net8.0\simpleCRUD.csproj.AssemblyReference.cache
+C:\Users\alvic viojan\Source\Repos\Tenasia\simpleCRUD\simpleCRUD\obj\Debug\net8.0\simpleCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvic viojan\Source\Repos\Tenasia\simpleCRUD\simpleCRUD\obj\Debug\net8.0\simpleCRUD.AssemblyInfoInputs.cache
+C:\Users\alvic viojan\Source\Repos\Tenasia\simpleCRUD\simpleCRUD\obj\Debug\net8.0\simpleCRUD.AssemblyInfo.cs
+C:\Users\alvic viojan\Source\Repos\Tenasia\simpleCRUD\simpleCRUD\obj\Debug\net8.0\simpleCRUD.csproj.CoreCompileInputs.cache
+C:\Users\alvic viojan\Source\Repos\Tenasia\simpleCRUD\simpleCRUD\obj\Debug\net8.0\simpleCRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alvic viojan\Source\Repos\Tenasia\simpleCRUD\simpleCRUD\obj\Debug\net8.0\simpleCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alvic viojan\Source\Repos\Tenasia\simpleCRUD\simpleCRUD\obj\Debug\net8.0\simpleCRUD.RazorAssemblyInfo.cache
+C:\Users\alvic viojan\Source\Repos\Tenasia\simpleCRUD\simpleCRUD\obj\Debug\net8.0\simpleCRUD.RazorAssemblyInfo.cs
+C:\Users\alvic viojan\Source\Repos\Tenasia\simpleCRUD\simpleCRUD\obj\Debug\net8.0\simpleCRUD.sourcelink.json

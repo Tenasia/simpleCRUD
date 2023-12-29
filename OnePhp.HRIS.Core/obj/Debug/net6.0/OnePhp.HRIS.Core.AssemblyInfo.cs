@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnePhp.HRIS.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7c5f029a0b770521329300bf5fe568abb1c5a60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99146260a7c2f59681a3cc2c44cd7dfff102e650")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnePhp.HRIS.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnePhp.HRIS.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

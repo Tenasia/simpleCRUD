@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alvic\\source\\repos\\simpleCRUD\\simpleCRUD\\simpleCRUD.csproj": {}
+    "C:\\Users\\alvic viojan\\Source\\Repos\\Tenasia\\simpleCRUD\\simpleCRUD\\simpleCRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alvic\\source\\repos\\simpleCRUD\\OnePhp.HRIS.Core\\OnePhp.HRIS.Core.csproj": {
+    "C:\\Users\\alvic viojan\\Source\\Repos\\Tenasia\\simpleCRUD\\OnePhp.HRIS.Core\\OnePhp.HRIS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alvic\\source\\repos\\simpleCRUD\\OnePhp.HRIS.Core\\OnePhp.HRIS.Core.csproj",
+        "projectUniqueName": "C:\\Users\\alvic viojan\\Source\\Repos\\Tenasia\\simpleCRUD\\OnePhp.HRIS.Core\\OnePhp.HRIS.Core.csproj",
         "projectName": "OnePhp.HRIS.Core",
-        "projectPath": "C:\\Users\\alvic\\source\\repos\\simpleCRUD\\OnePhp.HRIS.Core\\OnePhp.HRIS.Core.csproj",
-        "packagesPath": "C:\\Users\\alvic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alvic\\source\\repos\\simpleCRUD\\OnePhp.HRIS.Core\\obj\\",
+        "projectPath": "C:\\Users\\alvic viojan\\Source\\Repos\\Tenasia\\simpleCRUD\\OnePhp.HRIS.Core\\OnePhp.HRIS.Core.csproj",
+        "packagesPath": "C:\\Users\\alvic viojan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alvic viojan\\Source\\Repos\\Tenasia\\simpleCRUD\\OnePhp.HRIS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\alvic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alvic viojan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -61,12 +61,6 @@
               "target": "Package",
               "version": "[6.0.9, )"
             },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.9, )"
-            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[6.0.1, )"
@@ -103,20 +97,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -126,20 +106,20 @@
         }
       }
     },
-    "C:\\Users\\alvic\\source\\repos\\simpleCRUD\\simpleCRUD\\simpleCRUD.csproj": {
+    "C:\\Users\\alvic viojan\\Source\\Repos\\Tenasia\\simpleCRUD\\simpleCRUD\\simpleCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alvic\\source\\repos\\simpleCRUD\\simpleCRUD\\simpleCRUD.csproj",
+        "projectUniqueName": "C:\\Users\\alvic viojan\\Source\\Repos\\Tenasia\\simpleCRUD\\simpleCRUD\\simpleCRUD.csproj",
         "projectName": "simpleCRUD",
-        "projectPath": "C:\\Users\\alvic\\source\\repos\\simpleCRUD\\simpleCRUD\\simpleCRUD.csproj",
-        "packagesPath": "C:\\Users\\alvic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alvic\\source\\repos\\simpleCRUD\\simpleCRUD\\obj\\",
+        "projectPath": "C:\\Users\\alvic viojan\\Source\\Repos\\Tenasia\\simpleCRUD\\simpleCRUD\\simpleCRUD.csproj",
+        "packagesPath": "C:\\Users\\alvic viojan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alvic viojan\\Source\\Repos\\Tenasia\\simpleCRUD\\simpleCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\alvic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alvic viojan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -155,8 +135,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\alvic\\source\\repos\\simpleCRUD\\OnePhp.HRIS.Core\\OnePhp.HRIS.Core.csproj": {
-                "projectPath": "C:\\Users\\alvic\\source\\repos\\simpleCRUD\\OnePhp.HRIS.Core\\OnePhp.HRIS.Core.csproj"
+              "C:\\Users\\alvic viojan\\Source\\Repos\\Tenasia\\simpleCRUD\\OnePhp.HRIS.Core\\OnePhp.HRIS.Core.csproj": {
+                "projectPath": "C:\\Users\\alvic viojan\\Source\\Repos\\Tenasia\\simpleCRUD\\OnePhp.HRIS.Core\\OnePhp.HRIS.Core.csproj"
               }
             }
           }
@@ -171,25 +151,83 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "EntityFramework": {
+            "AngleSharp": {
               "target": "Package",
-              "version": "[6.4.4, )"
+              "version": "[0.17.1, )"
             },
-            "Microsoft.AspNetCore.Identity": {
+            "Google.Apis.Auth": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[1.57.0, )"
+            },
+            "Google.Apis.Gmail.v1": {
+              "target": "Package",
+              "version": "[1.57.0.2650, )"
+            },
+            "Hangfire.AspNetCore": {
+              "target": "Package",
+              "version": "[1.7.31, )"
+            },
+            "Hangfire.MemoryStorage": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "LumenWorks.Framework.IO.Core": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.4.1, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.9, )"
             },
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[6.0.9, )"
             },
-            "MySql.Data.EntityFramework": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
-              "version": "[8.2.0, )"
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.5.6, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
